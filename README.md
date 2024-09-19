@@ -1,2 +1,2 @@
-# This is a project that I am creating within the Odin Project curriculum to practice my HTML skills.
-This is a test line
+# Project: Recipes
+This is a basic HTML Project created to practice my skills as well as to learn more about git and github. This project was created using the tutorial provided by The Odin Project. There may be small differences but the majority of the code was structured using the curriculum.
